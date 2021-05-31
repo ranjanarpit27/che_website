@@ -1,0 +1,429 @@
+body {
+     background: grey;
+    margin:0 auto;
+
+
+}
+.link-title img{
+    width: 300px;
+    margin: 1px 10px 1px 50px;
+    background-size: auto;
+}
+
+.container {
+    width: 100%;
+    box-shadow: 0px 10px 12px 6px;
+    margin: 2 auto;
+    background: #0d1a00;
+}
+.header {
+    padding: 20px 0 20px 50px;
+    background-color: white;
+}
+
+
+#hovers {
+    width: 99.8%;
+    height: 300px;
+    opacity: 1;
+    
+    background-image: url(../image/index1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    
+}
+#hovers h1{
+    text-align: center;
+    font-size: 50px;
+    color: ;
+    font-family:cursive;
+    
+    
+    
+}
+#hovers:hover{
+    color: deepskyblue;
+    opacity: 0.5 ;
+}
+#hovers input{
+    font-size: 20px;
+    background-color: green;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 5px 20px 5px 20px;
+    box-sizing: border-box;
+
+    
+}
+.menu {
+    
+    background: darkgreen ;
+    padding: 6px 0 6px 100px;    
+
+}
+.menu a {    
+    
+    color:#c5d6db;
+    text-decoration:inherit;
+    font-size: 25px;
+    font-family: "arial narrow", "myriad pro";
+}
+.menu a:hover{
+    color: greenyellow;
+    
+}
+
+aside {
+    float: left;
+    width: 220px;
+    padding: 80px 20px 10px 10px;
+    
+}
+.aboutimage img{
+    border-radius: 100px;
+    width: 100%;
+    margin: 5px 100px 10px;
+}
+/*same*/
+.main {
+    margin: 50px 10px 50px 200px;
+    padding: 35px 100px 65px 200px;
+    color: #ffffff;
+    font-family: "Georgia";
+    font-size: 18px;
+    line-height: 18px;
+    text-emphasis: justify;    
+}
+.main h1{
+    color: antiquewhite;
+    font-family: "monospace";
+    font-size: 30px;
+    
+}/*same*/
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
+footer {
+    padding: 6px 40px 6px 40px;
+    background: #d6d6d6;
+    font-family: "lucida sans unicode";
+    color: #444444;
+    font-size: 12px;
+    text-decoration: right;    
+}
+.contact
+{
+    
+    background-color: #003300;
+}
+.last{
+    text-align: center;
+    color: lightcyan;
+    
+}
+.contact h1{
+    
+    color: lemonchiffon;
+    text-align: left;
+    margin-left: 100px;
+}
+
+.table{
+    text-align: left;
+    align-content: center;
+    padding: 20px 300px 20px 300px;
+    width: 100%;
+}
+.table h3{
+    color: yellow;
+}
+.table p{
+    color: aliceblue;
+    text-align: left;
+    table-layout: inherit;
+    align-content: center;
+}
+footer {
+    text-align: center;
+}
+footer a {
+    text-decoration: none;
+    color: black;    
+}
+
+.separator {    
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+/**** feedback************/
+#feedback #form {
+    width: 500px;
+    margin:  0 auto;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 0px 10px 12px 6px;
+    border-radius: 10px;
+    
+}
+
+#feedback #form input {
+    width: 100%;
+    border-radius: 50x;
+    height: 20px;
+    background: lightgrey;
+    
+}
+
+#feedback #form #message {    
+    width: 100%;
+    border-radius: 5px;
+    background: lightgrey;
+    margin: 0 auto;
+}
+#feedback #form #submit {
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    background: lightblue;
+}
+#feedback #head {
+    text-align: center;
+    color: aliceblue;
+    
+}
+#feedback .m {
+  margin: 50px 20px 50px 20px;
+    padding: 0px ;
+    color: #ffffff;
+    font-family: "Georgia";
+    font-size: 18px;
+    line-height: 18px;
+    text-emphasis: justify; 
+}
+/*-------faq------------*/
+#faq #hovers {
+    width: 99.8%;
+    height: 300px;
+    opacity: 1;
+   background-image: url(../image/index1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    
+}
+#faq #hovers h1{
+    text-align: center;
+    font-size: 80px;
+    color: ;
+    font-family:cursive;
+    
+    
+    
+}
+#faq #hovers:hover{
+    color: deepskyblue;
+    opacity: 0.5;
+}
+#faq #co {
+    margin: 20px 200px 20px 200px;
+}
+#faq #co p{
+    text-align: left;
+    color:  bisque;
+    text-decoration: none;
+    font-family:sans-serif;
+}
+#faq #co h5{
+    color: beige;
+    text-decoration-style: solid;
+    font-family: sans-serif;
+    font-size: 14px
+}
+#faq #co h4{
+    font-family: sans-serif;
+    color:greenyellow;
+    height: 20px
+}
+#faq #co ul{
+    color: aliceblue;
+}
+/*************e-waste**************/
+
+#e_waste #hovers {
+    width: 99.8%;
+    height: 300px;
+    opacity: 1;
+   background-image: url(../image/index1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    
+}
+#e_waste #hovers h1{
+    text-align: center;
+    font-size: 80px;
+    color: ;
+    font-family:cursive;
+}
+#e_waste #hovers:hover{
+    color: deepskyblue;
+    opacity: 0.5;
+}
+#e_waste #waste{
+    text-align: left;
+    color: aliceblue;
+    font-family:serif;
+    padding: 10px 310px;
+    border-color: aliceblue;
+}
+#e_waste #waste h3{
+    color: chartreuse;
+}
+#e_waste #ls aside {
+    float: left;
+    width: 220px;
+    padding: 20px 20px 20px 20px;
+    
+}
+#e_waste #ls img {
+    box-shadow: 2px;
+    width: 100%;
+    margin: 55px 20px 55px 20px  ;
+    
+}
+#e_waste #ls p{
+    color: darkorange;
+    font-size: 30px;
+    font-family: fantasy;
+    text-align: center;
+    margin: 50px 20px;
+}
+#e_waste #ri p{
+    color: burlywood;
+    font-size: 30px;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 50px 20px;
+}
+#e_waste #ri aside {
+    float: right;
+    width: 220px;
+    padding: 20px 20px 20px 20px;
+}
+#e_waste #ri img {
+    box-shadow: 2px;
+    width: 100%;
+    margin: 55px 20px 55px 2px ;
+    
+}
+#e_waste #li img {
+    width: 50%;
+    margin-left: 25%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************responsibility***********/
+
+#responsibility #hovers {
+    width: 99.8%;
+    height: 300px;
+    opacity: 1;
+   background-image: url(../image/index1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    
+}
+#responsibility #hovers h1{
+    text-align: center;
+    font-size: 80px;
+    color: ;
+    font-family:cursive;
+    
+    
+    
+}
+#responsibility #hovers:hover{
+    color: deepskyblue;
+    opacity: 0.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/************collection_point*******/
+#collection-point #hovers {
+    width: 99.8%;
+    height: 300px;
+    opacity: 1;
+   background-image: url(../image/index1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    
+}
+#collection-point #hovers h1{
+    text-align: center;
+    font-size: 80px;
+    text-emphasis-style: sesame;
+    font-family:cursive;
+    text-decoration-style: dotted;
+
+    
+    
+    
+    
+}
+#collection-point #hovers:hover{
+    
+    opacity: 0.5;
+    color: deepskyblue;
+
+}
+
+#collection-point #cp{
+    width: 100%;
+    padding: 50px 150px;
+    text-align:center;
+    background-color: lightgrey;
+    
+
+}
+#collection-point #cp th{
+    color: red;
+    font-size: 25px;
+    padding: 10px;
+}
+#collection-point #cp td{
+    color: olivedrab;
+    font-family:sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    text-align: left;
+}
